@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="media/avatar.jpg" width="140" alt="Bhashwar Ghosh" style="border-radius: 50%;">
+<img src="media/avatar.png" width="140" alt="Bhashwar Ghosh">
 
 # Bhashwar Ghosh
 
