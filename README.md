@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="media/avatar.jpg" width="140" alt="Bhashwar Ghosh" style="border-radius: 50%;">
+
 # Bhashwar Ghosh
 
 **Founder, [Aelior Labs](https://aeliorlabs.com). Physical AI for factory work.**
